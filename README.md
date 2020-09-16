@@ -31,7 +31,7 @@ Commits N Crosses
 
  And to save typing the password with every push, both players should tell Git to remember it using the instructions found at:
 
-    https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git
+https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git
 
  Player 1 should create a new local branch, and check it out
 
